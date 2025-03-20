@@ -1,2 +1,3 @@
 HOLA
 se cambiara de version cuando se guarde
+Se edito este archivo txt
